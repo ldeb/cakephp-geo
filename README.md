@@ -1,4 +1,5 @@
-@ldeb: trying to fix a conflict when multiple markers are used with addresses (without lat/lng)
+**@ldeb:** trying to fix a conflict when multiple markers are used with addresses (without lat/lng)
+
 details: trying to fix addMarker() function in GoogleMapHelper.php
 
 # CakePHP Geo Plugin
