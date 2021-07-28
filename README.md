@@ -1,3 +1,6 @@
+@ldeb: trying to fix a conflict when multiple markers are used with addresses (without lat/lng)
+details: trying to fix addMarker() function in GoogleMapHelper.php
+
 # CakePHP Geo Plugin
 
 [![CI](https://github.com/dereuromark/cakephp-geo/workflows/CI/badge.svg?branch=master)](https://github.com/dereuromark/cakephp-geo/actions?query=workflow%3ACI+branch%3Amaster)
